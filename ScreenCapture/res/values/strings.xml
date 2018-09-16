@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameCapture</string>
+    <string name="capture_error">エラー</string>
+</resources>
